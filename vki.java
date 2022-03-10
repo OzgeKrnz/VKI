@@ -4,7 +4,7 @@ import java.util.Scanner;
 // kullanıcıdan alınan değerlere göre vücut kitle endeksini hesaplayın.
 // vke = kilo(kg)/((boy(cm)/100)^2)
 
-public class odev1 {
+public class vki {
     public static void main(String[] args) {
 
         int boy = 0;
